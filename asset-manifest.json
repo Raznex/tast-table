@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/todolist/static/css/main.c6c75be9.css",
-    "main.js": "/todolist/static/js/main.b37f23d8.js",
-    "static/media/Inter-SemiBold.woff": "/todolist/static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
-    "static/media/Inter-Medium.woff": "/todolist/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/todolist/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/todolist/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-SemiBold.woff2": "/todolist/static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
-    "static/media/Inter-Medium.woff2": "/todolist/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/todolist/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/todolist/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "index.html": "/todolist/index.html",
-    "main.c6c75be9.css.map": "/todolist/static/css/main.c6c75be9.css.map",
-    "main.b37f23d8.js.map": "/todolist/static/js/main.b37f23d8.js.map"
+    "main.css": "/tast-table/static/css/main.541995e7.css",
+    "main.js": "/tast-table/static/js/main.b37f23d8.js",
+    "static/media/Inter-SemiBold.woff": "/tast-table/static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
+    "static/media/Inter-Medium.woff": "/tast-table/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/tast-table/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/tast-table/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-SemiBold.woff2": "/tast-table/static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
+    "static/media/Inter-Medium.woff2": "/tast-table/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/tast-table/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/tast-table/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "index.html": "/tast-table/index.html",
+    "main.541995e7.css.map": "/tast-table/static/css/main.541995e7.css.map",
+    "main.b37f23d8.js.map": "/tast-table/static/js/main.b37f23d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6c75be9.css",
+    "static/css/main.541995e7.css",
     "static/js/main.b37f23d8.js"
   ]
 }
