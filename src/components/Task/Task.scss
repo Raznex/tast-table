@@ -1,0 +1,68 @@
+.task {
+  font-family: Inter, Arial, sans-serif;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  background-color: #c9c9c9;
+  border-radius: 10px;
+  padding: 15px 20px;
+
+  &_editing {
+    background-color: white;
+    border: 1px dashed blue;
+  }
+
+  &__container {
+    display: flex;
+    align-items: center;
+  }
+
+  &__text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: center;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 400;
+    border: none;
+    color: black;
+    width: 150px;
+    resize: none;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 5px;
+
+    &_title {
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+  }
+
+  &__buttons {
+    gap: 15px;
+    display: flex;
+    align-items: center;
+  }
+
+  &__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #737373;
+    background-color: transparent;
+    cursor: pointer;
+    scale: 1;
+    transition: scale 0.3s ease;
+
+    &:hover {
+      scale: 1.1;
+    }
+  }
+}

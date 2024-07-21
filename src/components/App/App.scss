@@ -1,0 +1,22 @@
+.App {
+  font-family: Inter, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  max-width: 1200px;
+  width: 100%;
+  align-items: center;
+  margin: 20px 30px;
+
+  &__title {
+    font-family: Inter, Arial, sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+  }
+
+  &__container {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+}
